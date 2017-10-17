@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome_title">欢迎使用夏普电视</string>
+    <string name="welcome_subitle">3分钟设置尽享智能电视</string>
+    <string name="pair_network">正在为您配对网络...</string>
 </resources>
